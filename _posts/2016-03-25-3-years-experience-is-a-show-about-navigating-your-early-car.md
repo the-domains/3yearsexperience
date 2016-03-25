@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "3 Years Experience is a show about navigating your early career.\_"
-datePublished: '2016-03-25T03:44:10.241Z'
-dateModified: '2016-03-25T03:43:53.263Z'
+datePublished: '2016-03-25T03:45:04.137Z'
+dateModified: '2016-03-25T03:44:16.410Z'
 title: ''
 author: []
 authors: []
